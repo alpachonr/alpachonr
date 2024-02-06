@@ -1,4 +1,4 @@
-# Perfil de Github
+# Perfil de Github de Alejandro
 Este perfil pertenece a un estudiante de ingeniería electrónica.
 
 <picture>
