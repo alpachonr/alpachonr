@@ -4,7 +4,7 @@ Este perfil pertenece a un estudiante de ingeniería electrónica.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="1660132089594610.jpg">
   <source media="(prefers-color-scheme: light)" srcset="1554000167250-1.jpg">
-  <img alt="estoy haciendo los tutoriales de github" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="estoy haciendo los tutoriales de github" src="Screenshot 2022-10-07 183125.png">
 </picture>
 
 
